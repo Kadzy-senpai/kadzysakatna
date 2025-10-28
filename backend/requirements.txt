@@ -1,0 +1,10 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+neo4j==5.15.0
+python-dotenv==1.0.1
+PyJWT==2.8.0
+passlib[bcrypt]==1.7.4
+pydantic==2.6.1
+argon2-cffi
+email-validator
+pydantic[email]

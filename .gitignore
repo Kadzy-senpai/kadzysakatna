@@ -1,0 +1,47 @@
+# ==== PYTHON / BACKEND ====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.env
+venv/
+backend/venv/
+requirements.txt
+
+# ==== NODE / FRONTEND ====
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+.next/
+out/
+
+# ==== ENVIRONMENT FILES ====
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*
+
+# ==== DEBUG FILES ====
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ==== DEPLOYMENT ====
+.vercel
+
+# ==== TYPESCRIPT ====
+*.tsbuildinfo
+next-env.d.ts
+
+# ==== VS CODE ====
+.vscode/
+
+# ==== SYSTEM FILES ====
+.DS_Store
+Thumbs.db

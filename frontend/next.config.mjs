@@ -14,8 +14,8 @@ const nextConfig = {
   },
   distDir: ".next",
 
-  // ✅ This automatically exports static files to /out
-  //output: "export",
+  // ✅ Required for Render (uses Node server)
+  output: "standalone",
 };
 
 export default nextConfig;

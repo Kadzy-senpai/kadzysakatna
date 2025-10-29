@@ -18,6 +18,9 @@ const nextConfig = {
   // dev server can require packages from the project's `node_modules`). This
   // keeps build output inside the project root where module resolution works.
   distDir: '.next_temp',
+
+   output: 'export',
 }
+
 
 export default nextConfig

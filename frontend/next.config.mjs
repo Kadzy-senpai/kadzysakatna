@@ -12,10 +12,10 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  distDir: ".next_temp",
+  distDir: ".next",
 
   // ✅ This automatically exports static files to /out
-  output: "export",
+  //output: "export",
 };
 
 export default nextConfig;

@@ -20,6 +20,7 @@ const nextConfig = {
   distDir: '.next_temp',
 
    output: 'export',
+   outDir: 'out',
 }
 
 

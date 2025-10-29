@@ -1,8 +1,12 @@
 {
-  "/page": "app/page.js",
-  "/login/page": "app/login/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/bookings/page": "app/bookings/page.js",
+  "/login/page": "app/login/page.js",
   "/passenger/page": "app/passenger/page.js",
-  "/transactions/page": "app/transactions/page.js",
-  "/profile/page": "app/profile/page.js"
+  "/page": "app/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/profile/edit/page": "app/profile/edit/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/driver/page": "app/driver/page.js",
+  "/transactions/page": "app/transactions/page.js"
 }

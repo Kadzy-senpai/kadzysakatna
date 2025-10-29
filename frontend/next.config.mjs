@@ -14,7 +14,7 @@ const nextConfig = {
   },
   distDir: ".next_temp",
 
-
+  // ✅ This automatically exports static files to /out
   output: "export",
 };
 

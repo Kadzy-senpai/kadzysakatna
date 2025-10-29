@@ -1,24 +1,13 @@
 {
-  "components\\driver-map.tsx -> leaflet": {
-    "id": 759,
-    "files": []
-  },
-  "components\\driver-map.tsx -> leaflet/dist/leaflet.css": {
-    "id": 5046,
-    "files": [
-      "static/css/857aa62baa17c894.css",
-      "static/chunks/46.f58d36e5ae7c7ddb.js"
-    ]
-  },
   "components\\passenger-map.tsx -> leaflet": {
-    "id": 759,
+    "id": "components\\passenger-map.tsx -> leaflet",
     "files": []
   },
   "components\\passenger-map.tsx -> leaflet/dist/leaflet.css": {
-    "id": 5046,
+    "id": "components\\passenger-map.tsx -> leaflet/dist/leaflet.css",
     "files": [
-      "static/css/857aa62baa17c894.css",
-      "static/chunks/46.f58d36e5ae7c7ddb.js"
+      "static/css/_app-pages-browser_node_modules_leaflet_dist_leaflet_css.css",
+      "static/chunks/_app-pages-browser_node_modules_leaflet_dist_leaflet_css.js"
     ]
   }
 }
